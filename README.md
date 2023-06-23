@@ -1,6 +1,6 @@
 
 <h1>Hello, I'm Binta Wira Nasrullah</h1>
-Highly motivated to learn up to date tech. Currently, interested about software testing and quality assurance using Selenium, Rest-Assured, Serenity, Cucumber, Gherkin, Postman, Jmeter and katalon. Ready to work in high paced and challenging industry
+Highly motivated to learn up to date tech. Currently, interested about software testing and quality assurance using Selenium, Rest-Assured, Katalon Studio, Appium, Cucumber, Gherkin, Postman, and Jmeter. Ready to work in high paced and challenging industry
 
 
 ## 🌐 Social Media:
